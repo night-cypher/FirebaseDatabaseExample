@@ -1,8 +1,5 @@
 package com.questdot.firebasedatabaseexample;
 
-/**
- * Created by Bakhtiyar on 12/30/2016.
- */
 public class Data {
 
     String key;
